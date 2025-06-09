@@ -23,7 +23,7 @@ const App = () => {
         </div>
       
       <div className="intro">
-        <h1>CPP First-Year Survival Guide!</h1>
+        <h1>CPP First-Year Survival Guide</h1>
         <h2>Welcome Broncos! Check out everything you need to know for your first year on campus.</h2>
       </div>
         
@@ -70,7 +70,7 @@ const App = () => {
 
         <Card
           title="Sports" 
-          description="Access health and wellness resources available to students." 
+          description="Check out our sports teams and athletic events." 
           imageSrc={sports}
           buttonText="Explore Resources" 
            buttonLink={'https://broncoathletics.com/'}
