@@ -14,8 +14,8 @@
   justify-content: start;
   height: 64px;
   width: 300px;
-  margin-top: 10px;
-  margin-left: 10px;
+  margin-top: 15px;
+  margin-left: 30px;
 }
 
 .intro{
@@ -23,13 +23,22 @@
   margin-bottom: 50px;
 }
 
-.sidebar {
+.decorative-bar{
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 50px;
+  background: linear-gradient(to right, gold, rgb(125, 234, 134));
+  width: 100%;
+}
+
+/*.sidebar {
   position: fixed;
   top: 0;
-  width: 50px; /* thickness of the bar */
+  width: 50px; //thickness of the bar
   height: 100%;
-
 }
+*/
 
 /*.left-bar {
   left: 0px;
@@ -63,17 +72,18 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  font-family:'Georgia';
+  font-weight: 600;
 }
 
 h2 {
-  font-size: 2.1em;
-  line-height: 1.1;
+  font-size: 1.5em;
+  font-family: 'Verdana', sans-serif;
+  font-weight: 200;
 }
 
 h1, h2{
   color:white;
-  font-family: 'Proxima Nova';
-
 
 
 }

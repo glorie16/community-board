@@ -7,6 +7,13 @@
   color: black;
 }
 
+@font-face {
+  font-family: 'CPPfont';
+  src: url('./fonts/CPPfont.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /*.header{
   background: linear-gradient(to right, gold, rgb(125, 234, 134));
 }

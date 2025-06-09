@@ -6,6 +6,7 @@
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     background-color: #fff;
+    font-family: 'Verdana', sans-serif;
 }
 
 .cardImage{
@@ -17,8 +18,9 @@
 
 .cardButton{
     background-color: lightgreen;
+    font-family: 'CPPfont';
 }
 
 .cardButton:hover{
-    background-color: gold;
+    background: linear-gradient(to right, gold, rgb(125, 234, 134));
 }

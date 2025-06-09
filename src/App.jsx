@@ -19,12 +19,14 @@ const App = () => {
       <div className="header">
         <img src={logo} alt="Site Logo" className="new-logo" />
       </div>
+      <div className="decorative-bar">
+        </div>
       
       //<div className="sidebar left-bar"></div>
       //<div className="sidebar right-bar"></div>
       <div className="intro">
-        <h1>First-Year Survival Guide!</h1>
-        <h2>Check out everything you need to know for your first year on campus.</h2>
+        <h1>CPP First-Year Survival Guide!</h1>
+        <h2>Welcome Broncos! Check out everything you need to know for your first year on campus.</h2>
       </div>
         
       <div className='cardList'>
