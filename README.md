@@ -34,7 +34,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+Video on Imgur: 
 https://imgur.com/a/E7luiES
+
+GIF file:
+![video3858252755](https://github.com/user-attachments/assets/ca9fb01f-2400-4a12-80ce-bcdd3bddbf04)
 
 <!-- <img src='https://imgur.com/a/E7luiES' title='Week 1 Project: Community Board Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
@@ -42,7 +46,9 @@ https://imgur.com/a/E7luiES
 GIF created with ...  
 
 - Zoom for recording
-- Imgur for creating a GIF
+- FreeConvert for creating a GIF
+- Also uploaded video on Imgur
+  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
