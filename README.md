@@ -2,7 +2,8 @@
 
 Submitted by: **Gloriele Mendoza**
 
-This web app: **This web app displays 10 resources to help incoming freshmen at my univeristy, Cal Poly Pomona.**
+This web app: **This web app displays 10 resources to help support incoming freshmen at my univeristy, Cal Poly Pomona. Each card briefly describes a different resource and contains a button
+that brings you to a link related to the topic.**
 
 Time spent: **10** hours spent in total
 
@@ -33,10 +34,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/E7luiES' title='Week 1 Project: Community Board Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+
+- Zoom for recording
+- Imgur for creating a GIF
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
