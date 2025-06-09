@@ -34,7 +34,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/E7luiES' title='Week 1 Project: Community Board Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/E7luiES
+
+<!-- <img src='https://imgur.com/a/E7luiES' title='Week 1 Project: Community Board Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
