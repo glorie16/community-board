@@ -1,0 +1,16 @@
+.cardContainer{
+    width: 300px;
+    height: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    background-color: #fff;
+}
+
+.cardImage{
+    width: 300px;
+    height: 200px;
+    border-radius: 8px;
+    object-fit: cover;    
+}
