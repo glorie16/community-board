@@ -37,8 +37,9 @@ Here's a walkthrough of implemented required features:
 Video on Imgur: 
 https://imgur.com/a/E7luiES
 
-GIF file:
-![video3858252755](https://github.com/user-attachments/assets/ca9fb01f-2400-4a12-80ce-bcdd3bddbf04)
+Video file:
+https://github.com/user-attachments/assets/a5169004-a34f-4c5b-af1e-ab3655486412
+
 
 <!-- <img src='https://imgur.com/a/E7luiES' title='Week 1 Project: Community Board Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
@@ -46,7 +47,6 @@ GIF file:
 GIF created with ...  
 
 - Zoom for recording
-- FreeConvert for creating a GIF
 - Also uploaded video on Imgur
   
 <!-- Recommended tools:
