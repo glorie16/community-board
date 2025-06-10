@@ -5,7 +5,7 @@ Submitted by: **Gloriele Mendoza**
 This web app: **This web app displays 10 resources to help support incoming freshmen at my univeristy, Cal Poly Pomona. Each card briefly describes a different resource and contains a button
 that brings you to a link related to the topic.**
 
-Time spent: **10** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
@@ -38,6 +38,7 @@ Video on Imgur:
 https://imgur.com/a/E7luiES
 
 GIF with no sound:
+
 ![week1try6](https://github.com/user-attachments/assets/3818e42c-638d-405e-b30c-8e24fa77d2b4)
 
 
@@ -48,6 +49,7 @@ hatever GIF tool you used! -->
 GIF created with ...  
 
 - Zoom for recording
+- ScreenToGif to convert video to GIF
 - Also uploaded video on Imgur
   
 <!-- Recommended tools:
