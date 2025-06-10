@@ -35,12 +35,16 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 Video on Imgur: 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/E7luiES" data-context="false" ><a href="//imgur.com/a/E7luiES"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://imgur.com/a/E7luiES
+
+GIF with no sound:
+![week1try6](https://github.com/user-attachments/assets/3818e42c-638d-405e-b30c-8e24fa77d2b4)
 
 
 <!-- <img src='https://imgur.com/a/E7luiES' title='Week 1 Project: Community Board Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
-<!-- Replace this with whatever GIF tool you used! -->
+<!-- Replace this with w![week1try6](https://github.com/user-attachments/assets/8b566beb-7045-42bb-8f48-ac31fb7856bd)
+hatever GIF tool you used! -->
 GIF created with ...  
 
 - Zoom for recording
