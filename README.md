@@ -35,10 +35,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 Video on Imgur: 
-https://imgur.com/a/E7luiES
-
-Video file:
-https://github.com/user-attachments/assets/a5169004-a34f-4c5b-af1e-ab3655486412
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/E7luiES" data-context="false" ><a href="//imgur.com/a/E7luiES"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 <!-- <img src='https://imgur.com/a/E7luiES' title='Week 1 Project: Community Board Video Walkthrough' width='' alt='Video Walkthrough' /> -->
